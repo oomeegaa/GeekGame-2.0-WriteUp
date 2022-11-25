@@ -31,8 +31,6 @@ lgTak__lyn_ekae}
 
 ​		<font color=white>不会有人不看背景的 Setsuna 吧（</font>
 
-​		<font color=white>灯灯，我的灯灯 555</font>
-
 ## Prob01 小北问答 · 极速版（Tutorial）
 
 ​		只做了 flag1。需要达到 60 分，5 道题。
@@ -335,6 +333,8 @@ with open("text.txt", "r") as f:
 
 ​		？提示是流量分析？什么流量分析，我一点都不懂（
 
+​		这想必
+
 ## Prob07 私有笔记（Web）
 
 #### 知识，与你分享
@@ -367,7 +367,7 @@ with open("text.txt", "r") as f:
 
 ​		在网页源代码中，发现了一个加密过的脚本 `premium.js`。在网上搜到了这是 ob 混淆。
 
-​		使用网上的解混淆工具：http://tool.yuanrenxue.com/decode_obfuscator，得到代码。
+​		使用网上的解混淆工具：[decode_obfuscator](http://tool.yuanrenxue.com/decode_obfuscator)，得到代码。
 
 ```javascript
 const flag0 = "flag{fr0nt3nd_log1c_m4tters}";
